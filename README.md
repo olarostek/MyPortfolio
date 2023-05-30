@@ -14,6 +14,11 @@ My name is Ola Rostek, and i gradueted from the Food Technology and Humoan Nutri
 - https://www.dareit.io/challenges/qa-manual-testing
 - many courses on https://app.pluralsight.com/id
 
+## IT groups on FB I follow
+
+ - #Mamo Pracuj w IT,
+ - Dare IT Community
+
 ## Projects
 
 I took part in the Avenga company project: Bring Your Friend to Avenga. After several weeks of mentoring, as one of the few, I was selected among the candidates to participate the project.
