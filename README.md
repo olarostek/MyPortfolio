@@ -24,4 +24,4 @@ My name is Ola Rostek, and i gradueted from the Food Technology and Humoan Nutri
 I took part in the Avenga company project: Bring Your Friend to Avenga. After several weeks of mentoring, as one of the few, I was selected among the candidates to participate the project.
 
 
-At this moment, my portfolio may be short, but I haven't said the last word in this field yet.
+At this moment, my portfolio may be short, but I haven't said the last word in this field yet. It will be more colofrull 😏 
