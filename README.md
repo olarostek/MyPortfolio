@@ -1,21 +1,19 @@
-## Portfolio
-
-# About me
+# Portfolio
+## About me
 
 My name is Ola Rostek, and i gradueted from the Food Technology and Humoan Nutricion program in Poznań. Recently, I have developed an interest in software testing. In the near future, I wolud like to improve my knowledge and acquire new skills to establish myself and grow in the field of testing. Currently, I work two jobs., Professionaly, I am the store manager, and the other job i being mom 🙂
+## Tools
 
-# Tools
+ - Slack
+ - GitHub
+ - XPath Finder
 
-Slack
-GitHub
-XPath Finder
-
-# Courses
+## Courses
 
 - https://www.dareit.io/challenges/qa-manual-testing
 - many courses on https://app.pluralsight.com/id
 
-# Projects
+## Projects
 
 I took part in the Avenga company project: Bring Your Friend to Avenga. After several weeks of mentoring, I was selected among the candidates to participate the project.
 
