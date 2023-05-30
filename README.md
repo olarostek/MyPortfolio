@@ -2,8 +2,21 @@
 
 # About me
 
-Nazywam się Ola Rostek, ukończyłam studia na kierunku Technologia Żywności i Żywienie Człowieka w Poznaniu. Od jakiegoś czasu interesuje się tematyką testowania oprogramowania. W najbliższym czasie chciałabym doskonalić swoją wiedzę, nabywać nową wiedzę, aby móc zaistnieć i rozwijać się w branży testerskiej. Na ten moment pracuję na 2 etaty, zawodowo jako handlowiec, drugi etat to bycie mamą.
+My name is Ola Rostek, and i gradueted from the Food Technology and Humoan Nutricion program in Poznań. Recently, I have developed an interest in software testing. In the near future, I wolud like to improve my knowledge and acquire new skills to establish myself and grow in the field of testing. Currently, I work two jobs., Professionaly, I am the store manager, and the other job i being mom 🙂
+
+# Tools
+
+Slack
+GitHub
+XPath Finder
 
 # Courses
 
-https://www.dareit.io/challenges/qa-manual-testing
+- https://www.dareit.io/challenges/qa-manual-testing
+- many courses on https://app.pluralsight.com/id
+
+# Projects
+
+I took part in the Avenga company project: Bring Your Friend to Avenga. After several weeks of mentoring, I was selected among the candidates to participate the project.
+
+
